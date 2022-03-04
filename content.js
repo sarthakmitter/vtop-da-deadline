@@ -41,7 +41,7 @@ function change_navbar() {
           </div>
         </div>
       </div></div></div>
-    <p style="text-align: center;background-color: #00EDFD">Quick IMP Links Up</p>`;
+    <p style="text-align: center;background-color: #297FB8">QUICK</p>`;
 
         var dropdown = document.getElementsByClassName(
             "btn-group-vertical dropright"
