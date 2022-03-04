@@ -35,7 +35,7 @@ function change_navbar() {
                 <a href="javascript:loadmydiv('academics/common/StudentCoursePage')" id="ACD0045" class="btnItem" onclick="toggleButtonMenuItem()"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-dot-circle-o"></i>&nbsp;&nbsp;Course Page</a>
               </li>
               <li>
-                <a href="javascript:loadmydiv('academics/common/StudentClassMessage')" id="CNTXXX3" class="btnItem" onclick="toggleButtonMenuItem()"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-book"></i>&nbsp;&nbsp;Class Message</a>
+                <a href="javascript:loadmydiv('examinations/StudentMarkView')" id="EXM0011" class="btnItem" onclick="toggleButtonMenuItem()" xpath="1"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i class="fa fa-dot-circle-o"></i>&nbsp;&nbsp;Marks</a>
               </li>
             </ul>
           </div>
